@@ -37,6 +37,7 @@ add_routes(
 )
 ### adding comments
 
+merge_b1 = 0
 
 if __name__=="__main__":
     import uvicorn
