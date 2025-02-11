@@ -35,7 +35,6 @@ add_routes(
     chain,
     path="/chain"
 )
-### after creating b2 add this in main
 
 if __name__=="__main__":
     import uvicorn
