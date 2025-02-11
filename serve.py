@@ -24,7 +24,7 @@ chain=prompt_template|model|parser
 
 
 
-## App definition
+## App definitions
 app=FastAPI(title="Langchain Server",
             version="1.0",
             description="A simple API server using Langchain runnable interfaces")
